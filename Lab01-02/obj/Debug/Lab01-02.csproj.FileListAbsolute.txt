@@ -1,0 +1,7 @@
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\bin\Debug\Lab01-02.exe.config
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\bin\Debug\Lab01-02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\bin\Debug\Lab01-02.pdb
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\obj\Debug\Lab01-02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab01-01\Lab01-02\obj\Debug\Lab01-02.pdb
